@@ -1,0 +1,14 @@
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.csproj.AssemblyReference.cache
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.AssemblyInfoInputs.cache
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.AssemblyInfo.cs
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.csproj.CoreCompileInputs.cache
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.exe
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.deps.json
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.runtimeconfig.json
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.runtimeconfig.dev.json
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.dll
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\bin\Debug\netcoreapp3.1\Patron_builder.pdb
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.dll
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.pdb
+C:\Users\Xervicompu\source\repos\Patron_builder\Patron_builder\obj\Debug\netcoreapp3.1\Patron_builder.genruntimeconfig.cache
